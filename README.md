@@ -1,4 +1,4 @@
-**Red Wine Quality Dataset**
+# Red Wine Quality (About Dataset)
 
 The Red Wine Quality Dataset contains information on 1,599 red wine samples, each characterized by 11 physiochemical properties and a quality rating. This dataset is often used for classification and regression tasks to predict wine quality based on the provided features.
 
@@ -12,7 +12,7 @@ The Red Wine Quality Dataset contains information on 1,599 red wine samples, eac
     * 11 numeric (float64) features
     * 1 integer feature (quality)
 
-**Features Description:-**
+## **Features Description:-**
 
 1.**fixed acidity**: Concentration of fixed acids (g/dm³).
 
@@ -38,7 +38,7 @@ The Red Wine Quality Dataset contains information on 1,599 red wine samples, eac
 
 12.**quality**: Wine quality score (integer, range: 0-10).
 
-**Usage**
+## **Usage**
 
 This dataset can be used for:
 
